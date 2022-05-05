@@ -1,0 +1,148 @@
+lpn1cob - ci support
+
+ST Share Path
+\\bosch.com\dfsrb\DfsIN\LOC\Cob\NE2\EBT\ETB\EI-101527_STToolsSupport\02_Internal\93_OPL\2020 
+
+Department Share path
+\\BOSCH.COM\DfsRB\DfsIN\LOC\Cob\NE2\EBT\ETB
+Team Share Path
+\\bosch.com\dfsrb\DfsIN\LOC\Cob\NE2\EBT\ETB\EI-104648_HW_Engineering_Tools\02_Internal\10_Initiation\02_Contract\01_2020\Reference 
+Focus Factor for the Team = 1.21 (Means planning for tasks will be done for maximum 80% of available time of the team)
+000000007620
+RBEI/ETB-IN_iGPM Software_Developer
+
+SharedFolder (file://COB1074432/SharedFolder)
+C:\app\client\RGP6COB\product\12.2.0\client_1
+
+Run the SQL scripts located in C:\app\client\RGP6COB\product\12.2.0\client_1\ASP.NET\SQL directory after a new installation or an upgrade of Oracle Providers for ASP.NET.
+
+default oracle port - 1521
+
+https://www.hdfcbank.com/htdocs/campaign/netbanking_campaign/gratification/funds_transfer_NEFT.html
+
+Sakthi Crd Detls
+5597 2509 3700 1476
+pin - 901935
+
+9188
+Mat group	Market Price Adder
+
+QC_GET_PROJECT_PARTSLIST
+
+CB2020
+369W
+45196
+1
+NOTHING
+
+https://www.pluralsight.com/
+muralidharan_it@hotmail.com
+murali@123
+
+ To Do List 
+
+- Download excel feature - In progress
+
+- Copy from - lower grid items copying is the issue- better would simply copy everthing and later on remove of modify.
+- Planning unit 
+
+-- Upload again - delete old entries and insert new records
+OSS Points
+
+1. Change project details (Organization)from Microsft to Bosch - completed
+2. Change EntityFramework 5.0.0 & wpf toolkit 3.0v to latest version.
+L C146
+
+switch to linux containers in docker
+
+Next visit to office
+1. 2FA enable - completed
+2. NuGet Packages changes in QC tool - proxy issue
+
+
+update to Mario
+1. Remote PC not working
+2. Planning units for Bp requirement
+3. RBEI Leave policy
+4. Group updates
+5. Next yr plan and onsite opportunities
+
+EDH5COB - ESTHER
+PON4KOR - PALANISAMY
+
+CAPEX
+\\bosch.com\dfsrb\DfsIN\LOC\Cob\NE2\EBT\ETB\EI-104648_HW_Engineering_Tools\10_Development\CapEx
+
+Docker POC
+https://docs.docker.com/docker-for-windows/install/ 
+
+1.35 1.45 1.54
+1.44 1.54 1.63
+
+mohan emp id - 30269021
+101208431
+
+data moduler
+visio 2016
+
+git 
+curl
+
+node npm packages might require
+
+git bash
+cntlm
+
+.bashrc
+sudo for cygwin
+apt-get
+
+dept: ESY2 - Niranjan babu
+software analyser
+
+export http_proxy=http://RGP6COB:rboctober-2020@rb-proxy-de.bosch.com:8080/
+export https_proxy=https://RGP6COB:rboctober-2020@rb-proxy-de.bosch.com:8080/ 
+
+QC - evob fill until line 126 only (02.04.2020)
+
+C:\Users\rgp6cob\AppData\Local\Temp
+-----
+OPL Link
+ \\bosch.com\dfsrb\DfsDE\DIV\PS\EC\NE1\Cross_Topics\EHB\Quotation-Compiler\Frontend-Programming_RBEI\OPL_QuotationCompiler.xlsx
+
+SVN - https://korvm029.apac.bosch.com/etbtools/Quotation-Compiler
+
+OneNote Link: 
+https://sites.inside-share.bosch.com/sites/002496/_layouts/15/WopiFrame2.aspx?sourcedoc=%2Fsites%2F002496%2FDocuments%2FHW%2DQuotation%2DTeam&action=edit&wd=target%28Quotation%20Compiler%2FCIM%20interface%2Eone%7C6BA86618%2DA2D1%2D4C4F%2DB0F1%2D42CAF4127A26%2FCIM%2DInterface%20Package%7C9FAF4714%2DB374%2D47DA%2D81A0%2DB6045EECAD08%2F%29
+
+Share Folder : \\bosch.com\dfsrb\DfsDE\DIV\DGS\08\EC\42_EHB\OU\38_EHB7\60_AC
+
+ACDataSet.Designer.vb
+--------------------------
+Global.Resulting.BoschAC.My.MySettings.Default.ConnectionString replace with ConnCLS.sQCConnStr
+
+Test Server
+si-z0txo.si.de.bosch.com
+Link to the OPL:
+\\bosch.com\dfsrb\DfsDE\DIV\DGS\08\EC\42_EHB\OU\38_EHB7\60_AC\Frontend-Programming_RBEI\Findings_in_latest_Version.xlsx
+
+select * from qc_902_dropdown
+where dropdownvalueref like '%3.0.%';
+
+\\bosch.com\dfsrb\DfsDE\DIV\DGS\08\EC\40_NE1\PJ\02_SOM\03_Cost-Database\DevEnvironment\Test_Version_3.0.3
+\\bosch.com\dfsrb\DfsDE\DIV\PS\EC\NE1\Cross_Topics\EHB\Quotation-Compiler\Frontend-Programming_RBEI
+
+\\bosch.com\dfsrb\DfsDE\DIV\DGS\08\EC\40_NE1\PJ\02_SOM\01_Quote\00_ECU_external\
+For Import excel date to oracle MM/DD/YYYY     DD/MM/YYYY
+
+ OPWW -  SNR -12673602 - CB2019
+PDP - 1260206130 
+1270016463 -simple myc
+45136
+
+
+https://my.visualstudio.com/productkeys
+
+http://si0vmc0906.de.bosch.com/VSS
+
+https://inside-docupedia.bosch.com/confluence/display/ELS/Visual+Studio+Subscriptions+and+Visual+Studio+Support
